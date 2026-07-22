@@ -1,12 +1,28 @@
-Echo in Ink
+<div align="center">
 
-Creative technology studio building thoughtful digital products where design, storytelling, and software converge.
+# Echo in Ink
+
+### Creative technology studio building thoughtful digital products where design, storytelling, and software converge.
+
+<br />
+
+**Strategy × Design × Engineering × Storytelling**
+
+<br />
+
+[Explore Projects](#featured-projects) · [Our Capabilities](#studio-capabilities) · [Technology](#technology) · [Work With Us](#work-with-echo-in-ink)
+
+</div>
+
+---
+
+## About Echo in Ink
 
 Echo in Ink is an independent creative technology studio focused on designing and developing meaningful digital experiences, intelligent products, and scalable software systems.
 
-Our work brings together strategic thinking, visual design, product development, and emerging technology to create products that are useful, distinctive, and built to last.
+We bring together strategic thinking, visual design, product development, storytelling, and emerging technology to create products that are useful, distinctive, and built to last.
 
-We work across:
+Our work spans:
 
 * Brand strategy and digital identity
 * Product design and software development
@@ -15,21 +31,23 @@ We work across:
 * Design systems and creative technology
 * Experimental interfaces and digital experiences
 
-Our projects explore the space between creativity and engineering—combining strong ideas, thoughtful design, and maintainable technology.
+We explore the space between creativity and engineering—combining strong ideas, thoughtful design, and maintainable technology.
 
-⸻
+---
 
-Featured Projects
+## Featured Projects
 
-Codexia
+<table>
+<tr>
+<td width="50%" valign="top">
 
-AI-powered coding intelligence platform
+### Codexia
+
+**AI-powered coding intelligence platform**
 
 Codexia is an autonomous software development platform designed to understand codebases, plan changes, execute structured workflows, verify outcomes, and support the long-term evolution of complex software projects.
 
-The platform is built around modular agent architecture, bounded execution, workspace intelligence, verification systems, and maintainable engineering boundaries.
-
-Core focus areas
+#### Core focus areas
 
 * Autonomous agent architecture
 * Codebase and workspace intelligence
@@ -39,19 +57,18 @@ Core focus areas
 * Developer automation
 * Long-running task systems
 
-⸻
+</td>
+<td width="50%" valign="top">
 
-Lumo
+### Lumo
 
-ADHD life planning and wellbeing platform
+**ADHD life planning and wellbeing platform**
 
 Lumo is a gentle productivity and life-planning platform designed for neurodivergent minds.
 
-It helps people manage tasks, routines, habits, meals, health, budgeting, appointments, and everyday responsibilities without introducing unnecessary pressure, shame, or overwhelm.
+It helps people manage tasks, routines, habits, meals, health, budgeting, appointments, and everyday responsibilities without adding unnecessary pressure, shame, or overwhelm.
 
-Lumo is designed to feel like a calm, supportive companion rather than a rigid productivity system.
-
-Core focus areas
+#### Core focus areas
 
 * Personal productivity
 * Neurodivergent-friendly design
@@ -61,35 +78,82 @@ Core focus areas
 * Human-centred interaction design
 * Accessible and emotionally considerate UX
 
-⸻
+</td>
+</tr>
+</table>
 
-Echo in Ink Studio
+---
 
-Creative technology, product design, and digital development
+## Echo in Ink Studio
+
+### Creative technology, product design, and digital development
 
 Echo in Ink Studio is the commercial and creative foundation of the organisation.
 
-The studio works with founders, creatives, and growing businesses to translate ideas into clear identities, digital products, and reliable software systems.
+We work with founders, creatives, independent businesses, and growing teams to translate ideas into clear identities, thoughtful digital products, and reliable software systems.
 
-Studio capabilities
+Our approach connects strategy, design, and implementation from the beginning—reducing the gap between how a product is imagined and how it is ultimately built.
 
-* Brand strategy and identity systems
-* Websites and digital platforms
-* Web and mobile application development
+---
+
+## Studio Capabilities
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Brand and Strategy
+
+* Brand strategy
+* Positioning
+* Identity systems
+* Messaging frameworks
+* Digital brand implementation
+* Creative direction
+
+</td>
+<td width="33%" valign="top">
+
+### Product and Design
+
+* Product strategy
 * UX and UI design
-* Design system development
-* AI integrations and intelligent tools
-* API and workflow automation
-* Product strategy and prototyping
-* Existing product improvement and refactoring
+* Design systems
+* Prototyping
+* Interaction design
+* Accessibility reviews
 
-⸻
+</td>
+<td width="33%" valign="top">
 
-Technology
+### Software Development
+
+* Websites and web applications
+* Mobile application development
+* AI integrations
+* API development
+* Workflow automation
+* Refactoring and optimisation
+
+</td>
+</tr>
+</table>
+
+---
+
+## Technology
 
 Our projects are built using modern, maintainable technologies selected according to the needs of each product.
 
-Frontend
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=000000)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square\&logo=expo\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
 * TypeScript
 * JavaScript
@@ -101,7 +165,14 @@ Frontend
 * Modern CSS
 * Accessible component systems
 
-Backend and Infrastructure
+### Backend and Infrastructure
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square\&logo=supabase\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
 
 * Node.js
 * Python
@@ -112,7 +183,7 @@ Backend and Infrastructure
 * Serverless infrastructure
 * Cloud deployment platforms
 
-AI and Intelligent Systems
+### AI and Intelligent Systems
 
 * Large language model integrations
 * Autonomous agent architecture
@@ -123,7 +194,7 @@ AI and Intelligent Systems
 * Developer tooling
 * Validation and verification pipelines
 
-Product and Design
+### Product and Design
 
 * Product strategy
 * UX and UI design
@@ -134,44 +205,78 @@ Product and Design
 * Brand implementation
 * Responsive web and mobile design
 
-⸻
+---
 
-Engineering Principles
+## Engineering Principles
 
 We approach software as a long-term system rather than a collection of isolated features.
 
-Our engineering principles include:
+### Architecture first
 
-* Preserve clear architectural boundaries
-* Prefer maintainable abstractions over temporary fixes
-* Build incrementally and avoid unnecessary rewrites
-* Design for scalability without premature complexity
-* Treat accessibility as a core product requirement
-* Keep design and implementation closely aligned
-* Use AI to strengthen human judgement, not replace it
-* Build systems that remain understandable as they grow
+We preserve clear boundaries between systems and avoid coupling unrelated responsibilities.
 
-⸻
+### Maintainability over shortcuts
 
-Design Philosophy
+We prefer clean abstractions, readable code, and durable solutions over temporary fixes.
 
-Technology should feel human.
+### Incremental evolution
+
+We improve products in deliberate stages without introducing unnecessary rewrites.
+
+### Appropriate scalability
+
+We design systems that can grow without adding premature complexity.
+
+### Accessibility by default
+
+Accessibility is treated as a core product requirement rather than a final-stage addition.
+
+### Design and implementation alignment
+
+We keep visual systems, interaction patterns, and technical implementation closely connected.
+
+### Human-centred AI
+
+We use AI to strengthen human judgement, creativity, and capability—not replace them.
+
+### Understandable systems
+
+Software should remain navigable and maintainable as its features, contributors, and responsibilities expand.
+
+---
+
+## Design Philosophy
+
+> Technology should feel human.
 
 We believe the strongest digital products exist at the intersection of:
 
-Strategy × Design × Engineering × Storytelling
+<div align="center">
 
-A successful product should not only function correctly. It should communicate clearly, feel intentional, support the people using it, and remain maintainable over time.
+### Strategy × Design × Engineering × Storytelling
+
+</div>
+
+A successful product should not only function correctly.
+
+It should:
+
+* Communicate clearly
+* Feel intentional
+* Support the people using it
+* Reflect a distinctive point of view
+* Remain maintainable over time
+* Adapt as the product and its audience evolve
 
 Every Echo in Ink project is an opportunity to create something useful, thoughtful, and enduring.
 
-⸻
+---
 
-What We Are Building
+## What We Are Building
 
 Echo in Ink is developing a growing ecosystem of products, platforms, and creative technology experiments.
 
-Our current areas of exploration include:
+Current areas of exploration include:
 
 * Autonomous software development systems
 * Neurodivergent-friendly productivity tools
@@ -181,29 +286,79 @@ Our current areas of exploration include:
 * Personal knowledge and planning systems
 * Brand and identity technology
 * Human-centred automation
+* Reflective and narrative-driven digital experiences
 
-⸻
+---
 
-Work With Echo in Ink
+## Project Standards
+
+Repositories within the Echo in Ink organisation aim to include:
+
+* Clear project documentation
+* Maintainable repository structures
+* Environment configuration guidance
+* Local development instructions
+* Production build instructions
+* Deployment guidance
+* Accessible interface implementation
+* Consistent naming and formatting
+* Scalable architectural boundaries
+* Transparent project status and roadmap information
+
+Each project may be at a different stage of development, from early experimentation to production-ready release.
+
+---
+
+## Work With Echo in Ink
 
 Echo in Ink is available for selected freelance, contract, and collaborative projects.
 
 We can support:
 
-* New web and mobile application development
+* New website and web application development
+* Mobile application development
 * Existing product improvements
-* AI integrations
-* Design system implementation
-* UX and interface development
+* AI integrations and intelligent workflows
+* UX and interface implementation
+* Design system development
 * API integrations
 * Technical product strategy
 * Codebase cleanup and refactoring
 * Prototypes and early-stage product builds
+* Long-term product development partnerships
 
-For enquiries, collaboration, or project discussions, connect through the Echo in Ink organisation or studio channels.
+For project enquiries, collaborations, or conversations about our work, connect through the Echo in Ink organisation or official studio channels.
 
-⸻
+---
 
-Building the future, one thoughtful system at a time.
+## Organisation Repositories
+
+Our repositories include a combination of:
+
+* Production applications
+* Open-source tools
+* Internal platform foundations
+* Portfolio projects
+* Design systems
+* Technical experiments
+* Product research and prototypes
+
+Browse the repositories within this organisation to follow current development.
+
+---
+
+<div align="center">
+
+## Building the future, one thoughtful system at a time.
+
+<br />
+
+**Echo in Ink**
+
+Creative Technology · Digital Products · Intelligent Systems
+
+<br />
 
 © Echo in Ink
+
+</div>
